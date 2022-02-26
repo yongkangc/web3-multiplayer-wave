@@ -77,7 +77,7 @@ class Wave extends React.Component {
 
 	render() {
 		return (
-			<div className="wave">
+			<div className="dataContainer">
 				<button className="waveButton" onClick={this.wave}>
 					Wave at Me
 				</button>
